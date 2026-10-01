@@ -1,0 +1,20 @@
+{
+  "name": "clt-vs-pj",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Calculadora comparativa CLT x PJ com tabelas de INSS, IRRF e Simples Nacional atualizáveis por ano",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  }
+}
