@@ -1,6 +1,12 @@
 # CLT x PJ
 
+[![Deploy](https://github.com/Ircaro/clt-vs-pj/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ircaro/clt-vs-pj/actions/workflows/deploy.yml)
+
 Calculadora para comparar uma proposta **CLT** com uma proposta **PJ** e ver quanto sobra de verdade em cada uma, com as tabelas oficiais do ano e a possibilidade de editar tudo direto na página.
+
+**Acesse: https://ircaro.github.io/clt-vs-pj/**
+
+[![Tela da calculadora CLT x PJ](docs/preview.png)](https://ircaro.github.io/clt-vs-pj/)
 
 ## O que ela considera
 
